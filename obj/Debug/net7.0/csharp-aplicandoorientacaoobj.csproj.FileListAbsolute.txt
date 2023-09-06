@@ -1,0 +1,28 @@
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.exe
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.deps.json
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.runtimeconfig.json
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.pdb
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.AssemblyInfoInputs.cache
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.AssemblyInfo.cs
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.csproj.CoreCompileInputs.cache
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\refint\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.pdb
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.genruntimeconfig.cache
+C:\Users\CISSO-5\Documents\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\ref\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.exe
+c:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.deps.json
+c:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.runtimeconfig.json
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\bin\Debug\net7.0\csharp-aplicandoorientacaoobj.pdb
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.AssemblyInfoInputs.cache
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.AssemblyInfo.cs
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.csproj.CoreCompileInputs.cache
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\refint\csharp-aplicandoorientacaoobj.dll
+C:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.pdb
+c:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\csharp-aplicandoorientacaoobj.genruntimeconfig.cache
+c:\Users\CISSO-5\Documents\ESTUDOS C# - ALURA\csharp-aplicandoorientacaoobj\obj\Debug\net7.0\ref\csharp-aplicandoorientacaoobj.dll
